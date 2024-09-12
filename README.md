@@ -1,3 +1,3 @@
-# gigachstApi
+# gigachatApi
 
 Работа с Api GigaChat
